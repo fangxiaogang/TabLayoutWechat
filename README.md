@@ -1,2 +1,3 @@
 # TabLayoutWechat
-https://github.com/fangxiaogang/phot/blob/master/wechat.gif?raw=true
+
+![q](https://raw.githubusercontent.com/fangxiaogang/phot/master/wechat.gif)
